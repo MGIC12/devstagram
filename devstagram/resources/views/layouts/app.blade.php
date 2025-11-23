@@ -38,7 +38,7 @@
 
         </main>
 
-        <footer class="text-center p-5 text-gray-500 font-bold uppercase">
+        <footer class="mt-10 text-center p-5 text-gray-500 font-bold uppercase">
 
             <p>DevStagram - Todos los derechos reservados <br>{{ date('Y') }}</p>
 
